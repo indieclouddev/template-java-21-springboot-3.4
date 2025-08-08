@@ -1,6 +1,6 @@
-# IndieCloud Template: `template-java-21-springboot-3.4-postgresql`
+# IndieCloud Template: `template-java-21-springboot-3.4`
 
-A minimal Java 21 + Spring Boot 3.4 project with PostgreSQL, ready to deploy on [IndieCloud](https://indiecloud.dev).  
+A minimal Java 21 + Spring Boot 3.4 project, ready to deploy on [IndieCloud](https://indiecloud.dev).  
 No need to set up boilerplate for the 37th time.
 
 ## What's inside
@@ -18,8 +18,8 @@ Use GitHub’s **Fork** feature to create your own copy and push changes directl
 
 ### Option 2: Clone & re-init git  
 ```bash
-git clone https://github.com/indiecloud-dev/template-java-21-springboot-3.4-postgresql.git
-cd template-java-21-springboot-3.4-postgresql
+git clone https://github.com/indiecloud-dev/template-java-21-springboot-3.4.git
+cd template-java-21-springboot-3.4
 rm -rf .git
 git init
 git remote add origin https://github.com/yourusername/your-repo.git
